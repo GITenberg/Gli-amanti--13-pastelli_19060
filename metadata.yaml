@@ -1,0 +1,39 @@
+_repo: Gli-amanti--13-pastelli_19060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Scarfoglia, Matilde Serao
+    - Serao-Scarfoglia, Matilde
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2006-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19060'
+  lccn: '32016120'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+tableOfContents: L'imperfetto amante (Nino Stresa) -- L'imperfetto amante (Giustino
+  Morelli) -- Il perfetto amante (Massimo Dias) -- Il perfettissimo amante (Luigi
+  Caracciolo) -- Il viale degli oleandri (Mario Felice) -- Nella via (Vicenzella)
+  -- La veste di seta (Madame la marquise) -- La veste di crespo (Madame Héliotrope)
+  -- Un suicidio (Julian Sorel) -- Il convegno (La piccola Maria) -- L'ineluttabile
+  (Miss Geraldian) -- Il segreto (Cariclea) -- L'ultima lettera (Angelica)
+title: 'Gli amanti: pastelli'
+url: http://www.gutenberg.org/ebooks/19060
